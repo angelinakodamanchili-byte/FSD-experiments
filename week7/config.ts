@@ -1,7 +1,7 @@
 const config = {
     appName: "My Movie App",
     port: 3000,
-    username: "Tejaswini"
+    username: "Vincy"
 };
 
 // Template
